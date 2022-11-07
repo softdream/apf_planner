@@ -1,4 +1,4 @@
 # apf_planner
 Artificial Potential Field
 
-![img](https://github.com/softdream/apf_planner/blob/master/apf.png) </br>
+![img](https://github.com/softdream/apf_planner/blob/master/apf_test.png) </br>
