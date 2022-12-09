@@ -4,4 +4,4 @@ Artificial Potential Field
 ![img](https://github.com/softdream/apf_planner/blob/master/apf_test.png) </br>
 ![img](https://github.com/softdream/apf_planner/blob/master/0.gif) </br>
 ![img](https://github.com/softdream/apf_planner/blob/master/1.gif) </br>
-![img](https://github.com/softdream/apf_planner/blob/master/3.gif) </br>
+![img](https://github.com/softdream/apf_planner/blob/master/apf3.gif) </br>
